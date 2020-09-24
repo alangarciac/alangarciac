@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Header](/head.png)
+![Header](/header.png)
 
 I'm a software engineer. I consider myself a proactive and responsible person, very thoughtful; I like order and details. I always do my best in every stage to achieve unique optimal and simple results. I've experience with Java, but 🤔 I’m looking for learn new technologies!
 
