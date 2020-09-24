@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 I'm a software engineer. I consider myself a proactive and responsible person, very thoughtful; I like order and details. I always do my best in every stage to achieve unique optimal and simple results. I've more experience with Java, but 🤔 I’m looking for learn new technologies!
 
-- 🔭 I’m currently working on @Despegar company
+- 🔭 I’m currently working in @Despegar company as Java Backend Developer
 
